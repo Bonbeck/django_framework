@@ -1,3 +1,6 @@
 __pycache__
 vm
 db.sqlite3
+*.pyc
+*~
+/static
